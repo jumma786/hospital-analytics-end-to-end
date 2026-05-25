@@ -61,17 +61,20 @@ The Power BI dashboard has three pages.
 ### Operations Overview
 Encounter volume trends, class mix, and duration patterns across 11 years.
 
-![Operations Overview](screenshots/screenshot_operations.png)
+<img width="1389" height="734" alt="Screenshot 2026-05-25 162550" src="https://github.com/user-attachments/assets/7878da9b-55f1-47fa-b709-2d8bcb6ca9df" />
+
 
 ### Financial Overview
 Payer coverage gaps, cost drivers, and claim variance across encounter types.
 
-![Financial Overview](screenshots/screenshot_financial.png)
+<img width="1353" height="741" alt="Screenshot 2026-05-25 162507" src="https://github.com/user-attachments/assets/3afb9f17-670a-476d-b63b-a7c40275f411" />
+
 
 ### Patient Risk & Readmission
 Readmission rates, mortality patterns, and patient risk segmentation.
 
-![Patient Risk](screenshots/screenshot_patient_risk.png)
+<img width="1358" height="733" alt="Screenshot 2026-05-25 162528" src="https://github.com/user-attachments/assets/beea697b-9170-4eae-aaea-8de02ffd10df" />
+
 
 > 📂 **Open the dashboard**: download [`dashboards/hospital_analytics.pbix`](dashboards/hospital_analytics.pbix) in Power BI Desktop.
 >
