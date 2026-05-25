@@ -2,6 +2,8 @@
 
 End-to-end hospital analytics on synthetic EHR data: SQL Server data modelling, Power BI dashboards, and Python readmission modelling across 27,891 patient encounters from 974 patients between 2011 and early 2022.
 
+**974 patients • 27,891 encounters • 47,701 procedures • 11 years (2011–2022)**
+
 ## Project Status
 
 | Phase | Status | Deliverable |
