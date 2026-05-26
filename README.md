@@ -121,7 +121,11 @@ The beeswarm reveals the *direction* of each feature's effect on individual pred
 - Used the broad readmission definition (any encounter within 30 days). The strict CMS clinical definition (inpatient-to-inpatient) would be a harder, separate modelling problem.
 - One chronic-care patient (1,381 ambulatory encounters) heavily influences predictions. A production version would stratify by chronic-care status.
 
-📓 **See the full notebook**: [`notebooks/readmission_model.ipynb`]https://github.com/jumma786/hospital-analytics-end-to-end/blob/main/notebooks/readmission_model.ipynb.ipynb
+📓 **See the full notebook**: ## 📓 Notebook
+
+`notebooks/readmission_model.ipynb`
+
+🔗 [Open Notebook](https://github.com/jumma786/hospital-analytics-end-to-end/blob/main/notebooks/readmission_model.ipynb.ipynb)
 
 ## Data Quality Process
 
